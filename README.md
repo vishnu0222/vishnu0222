@@ -1,11 +1,7 @@
 <!-- Replace the banner below with your uploaded image later if you want a custom visual -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:14b8a6&height=220&section=header&text=Vishnu%20Mahajan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend,%20Cloud,%20and%20AI%20Systems&descAlignY=60&descSize=18" width="100%" alt="Vishnu Mahajan banner" />
 
-<h1 align="center">Vishnu Vardhan Mahajan</h1>
 
-<p align="center">
-  Software Engineer focused on backend systems, cloud services, and AI-driven products
-</p>
 
 <p align="center">
   Boulder, Colorado
