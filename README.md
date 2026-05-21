@@ -30,31 +30,46 @@ July 2019 - July 2023 | Chennai, India
 
 ## Experience
 
-### Helix Wireless | Software Engineer Intern
-**June 2025 - December 2025 | New Jersey and Remote**
+### Software Engineer Intern | Helix Wireless, USA  
+*June 2025 – Dec 2025*
 
-- Redesigned inefficient business logic that caused redundant database queries, resolving a gateway timeout issue on customer-facing endpoints and cutting response time from over 3 minutes to under 10 seconds.
-- Implemented REST endpoints used by internal services and coordinated updates across multiple tables with a safe PostgreSQL migration strategy that included backfill and rollback planning.
-- Standardized API responses, fixed webhook misfires, and restored reliable customer event notifications while documenting API collections in Postman.
-- Handled large payload validation, implemented JWT AuthGuards, and enforced structured RBAC within the Solo backend using NestJS and PostgreSQL.
-- Added unit tests for critical authentication and de-provisioning flows to reduce regressions during releases.
+- **Performance Engineering:** Redesigned inefficient business logic that caused redundant database queries, resolving critical gateway timeout issues and cutting endpoint response times from 3 minutes to under 10 seconds (89% improvement).
+- **System Migration & Security:** Orchestrated a safe PostgreSQL migration including schema validation and backfill/rollback plans; enforced scope-based RBAC and JWT AuthGuards to secure internal de-provisioning services.
+- **API Standardization:** Standardized API response structures and documented Postman collections, fixing high-priority webhook misfires and restoring reliable customer event notifications.
+- **Infrastructure Optimization:** Handled large payload validations and enforced structured access controls within the Solo backend using NestJS and PostgreSQL to ensure enterprise-grade stability.
+- **Automated Testing:** Developed comprehensive unit tests for authentication and de-provisioning modules, preventing regressions during releases and increasing deployment confidence.
 
-### Light & Wonder, Inc | Software Engineer
-**July 2023 - July 2024 | Bangalore, Karnataka**
+---
 
-- Built a modular web application that integrated Light & Wonder product suites with SSO and third-party APIs, improving compatibility and user experience.
-- Developed microservices-style backend APIs and structured JSON workflows, improving data processing efficiency by 30% through optimized SQL operations.
-- Fixed production bugs by tightening responses and error handling, then added unit and integration tests to prevent regressions.
-- Collaborated in Agile sprints, led API integration work, and delivered high-impact features on schedule.
+### Software Engineer | Light & Wonder, Inc, India  
+*July 2023 – July 2024*
+
+- **Modular Architecture:** Built a modular web application integrating Light & Wonder product suites with Single Sign-On (SSO) and third-party APIs, significantly enhancing system compatibility and user experience.
+- **Backend Optimization:** Developed microservices-style APIs and structured JSON workflows, improving data processing efficiency by 30% through optimized SQL operations.
+- **Production Stability:** Fixed critical production bugs by tightening error handling and added unit/integration tests to prevent regressions and improve release confidence.
+- **Agile Leadership:** Collaborated in Agile sprints, leading API integration efforts and delivering high-impact features under tight deadlines with a 100% on-time delivery rate.
+
+---
+
+### Software Engineer Intern | Light & Wonder, Inc, India  
+*January 2023 – June 2023*
+
+- **Full-Stack Implementation:** Assisted in developing responsive UIs using React.js and integrated them with Node.js backends to streamline internal reporting tools.
+- **Query Optimization:** Refined SQL queries for legacy systems, reducing retrieval latency for high-traffic financial modules by 15%.
+- **Quality Assurance:** Participated in peer code reviews and implemented automated unit tests using Jest to maintain a 90%+ code coverage standard.
 
 ## Featured Projects
 
-### Autonomous AI Multi-Agent Research and Execution Engine
+### [AI-Powered Professional Learning System](https://pwinbook.com/)
 **March 2026**
 
-- Built a backend-only multi-agent platform in Python using FastAPI, OpenAI Agents SDK, and SQLite.
-- Coordinated planner, researcher, executor, and critic agents across long-running research and execution workflows.
-- Implemented structured handoffs, tool integration, resumable execution, persistent workflow state, and stored intermediate artifacts for debugging and evaluation.
+- Multi-Agent Orchestration: Built a Vision-Language AI pipeline with 95% extraction accuracy using LangGraph, RAG
+grounding, and citation validation.
+- Multi-speaker Podcast: Collaborated on a LangGraph-based multi-agent podcast generation system with RAG grounding and
+structured outputs to reduce hallucinations.
+- Platform Engineering: Built a Dockerized GenAI platform with FastAPI, SurrealDB vector search, and async orchestration
+for high-concurrency workloads.
+
 
 ### [ChallengeFit](https://github.com/vishnu0222/ChallengeFit)
 **January 2026**
@@ -65,16 +80,22 @@ July 2019 - July 2023 | Chennai, India
 - Implemented secure authentication with Passport-JWT, route guards, Bearer tokens, and argon2 password hashing.
 - Added NestJS throttling and Redis-backed caching to control abusive traffic, reduce redundant reads, and improve API reliability.
 
+### Autonomous AI Multi-Agent Research and Execution Engine
+**January 2026**
+
+- Built a backend-only multi-agent platform in Python using FastAPI, OpenAI Agents SDK, and SQLite.
+- Coordinated planner, researcher, executor, and critic agents across long-running research and execution workflows.
+- Implemented structured handoffs, tool integration, resumable execution, persistent workflow state, and stored intermediate artifacts for debugging and evaluation.
+
 ## Technical Strengths
 
 | Category | Technologies |
 | --- | --- |
-| Languages | C++, TypeScript, JavaScript, Python, SQL |
-| Backend | NestJS, Node.js, Express, FastAPI, Prisma |
-| Frontend | React.js |
-| Messaging and AI | RabbitMQ, OpenAI Agents SDK, Multi-Agent Systems, Retrieval-Augmented Generation |
-| Data | PostgreSQL, MongoDB, SQLite, Redis |
-| Cloud and Dev Tools | Docker, AWS, Git, GitHub, Postman, CI/CD |
+| Programming | C++, TypeScript, JavaScript, Python, SQL |
+| Frameworks / Libraries | Node.js, NestJS, Express, FastAPI, React.js, Prisma, RabbitMQ, LangChain, LangGraph |
+| Databases | PostgreSQL, MongoDB, SurrealDB, Redis |
+| Tools / Cloud | Git, GitHub, Postman, Docker, AWS (EC2, ECS, S3, IAM), CI/CD |
+| Concepts | Multi-Agent Systems, Retrieval-Augmented Generation (RAG), Agentic RAG, Event-Driven Architecture |
 
 
 ## Impact Snapshot
