@@ -80,7 +80,7 @@ for high-concurrency workloads.
 - Implemented secure authentication with Passport-JWT, route guards, Bearer tokens, and argon2 password hashing.
 - Added NestJS throttling and Redis-backed caching to control abusive traffic, reduce redundant reads, and improve API reliability.
 
-### Autonomous AI Multi-Agent Research and Execution Engine
+### [Autonomous AI Multi-Agent Research and Execution Engine](https://github.com/vishnu0222/Autonomous-AI-Multi-Agent-Research-and-Execution-Engine)
 **January 2026**
 
 - Built a backend-only multi-agent platform in Python using FastAPI, OpenAI Agents SDK, and SQLite.
